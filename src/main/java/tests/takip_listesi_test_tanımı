@@ -1,0 +1,30 @@
+    Takip Listesi Testleri
+
+
+    Testin Amacı:
+
+    Kullanıcı takip etmek istediği ürünleri takip listesine ekleyep takip listesinden ürünleri takip edebilmelidir.
+
+
+    Ön koşullar:
+
+    Kullanıcının Akakçe kullanıcı hesabı olmalıdır.
+    Kullanıcının takip listesi boş olmalıdır.
+
+    Test Verisi:
+
+    Yoktur.
+
+    Test Tanımı:
+        Test Adımı                                         Beklenen sonuç
+
+    step 1: Kullanıcı Akakçe sitesine giriş yapar.             Kullanıcının log in olduğu görülür
+
+    step 2: Kullanıcı arama alanından takip edeceği ürünü      Kullanıcının aradığı ürünlerin listelendiği görülür.
+            aratır.
+
+    step 3: Kullanıcı takip etmek istediği ürünü takip et      Kullanıcının listesine eklediği ürünün takip listem
+            butonuna basar.                                    sayfasına eklendiği görülür.
+
+
+
