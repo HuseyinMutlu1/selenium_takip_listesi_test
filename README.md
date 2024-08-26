@@ -5,5 +5,6 @@ pom.xml dosyasındaki dependency ler update edilmelidir.
 
 
 Test adımları tests klasörünün iiçerisinde takip_listesi_test_tanımı klasörünün içerisinde verilmiştir.
+Test sonucları tests klasörü içerisinde mevcuttur.
 
 
